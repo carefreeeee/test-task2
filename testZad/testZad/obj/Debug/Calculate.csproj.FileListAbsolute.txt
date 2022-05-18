@@ -1,0 +1,16 @@
+C:\Users\НЮ\source\repos\testZad\testZad\bin\Debug\testZad.exe.config
+C:\Users\НЮ\source\repos\testZad\testZad\bin\Debug\testZad.exe
+C:\Users\НЮ\source\repos\testZad\testZad\bin\Debug\testZad.pdb
+C:\Users\НЮ\source\repos\testZad\testZad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\НЮ\source\repos\testZad\testZad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\testZad.Form1.resources
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\testZad.Form2.resources
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\testZad.Form3.resources
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\testZad.Properties.Resources.resources
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\Calculate.csproj.CopyComplete
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\testZad.exe
+C:\Users\НЮ\source\repos\testZad\testZad\obj\Debug\testZad.pdb

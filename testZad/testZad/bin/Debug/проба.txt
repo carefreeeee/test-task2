@@ -1,0 +1,1 @@
+{"type":2,"salt":1,"degree":1.0,"iciness":1.0,"totalHumidity":1.0,"humidityFrozen":1.0}
